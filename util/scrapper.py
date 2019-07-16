@@ -19,7 +19,6 @@ def ParseValueResearchOnline(name, code):
     page = requests.get(url)
     tree = html.fromstring(page.content)
     l = tree.xpath('//table[@id="fund-snapshot-port-holdings"]//td//text()')
-    # print 'l:', l
     l = utils.RemoveSpaces(l)
     fname = utils.GetFileByName(name)
     final = np.reshape(np.array(l), (-1, 6))
@@ -58,8 +57,6 @@ def ParseMoneyControl(url):
     rows = utils.RemoveSpaces(rows)
     # final = np.array(rows)
     final = np.array([np.array(xi) for xi in rows])
-    # for x in final:
-    #     print x
     id = url.split('/')[-3]
 
     fname = utils.GetFileByName(id.replace(' ', '_') + '.csv')
@@ -74,15 +71,14 @@ def main():
     if args.source is not None:
         if utils.MC in args.source:
             for f in cfg.MCFunds:
-                print "Geting funds from " + f
+                print("Geting funds from ", f)
                 links = ExtractLinks(f)
                 for x in links:
-                    print x[0], x[1], x[2]
-                    print ParseMoneyControl(x[0])
+                    print(ParseMoneyControl(x[0]))
         if utils.VRO in args.source:
             for fund in cfg.mutual_funds_codes:
-                print "ParseValueResearchOnline, fund:", fund, "code:", cfg.mutual_funds_codes[fund] 
-                print "Writing:", ParseValueResearchOnline(fund, cfg.mutual_funds_codes[fund])
+                print("ParseValueResearchOnline, fund:", fund, "code:", cfg.mutual_funds_codes[fund])
+                print("Writing:", ParseValueResearchOnline(fund, cfg.mutual_funds_codes[fund]))
                 # break
 
 if __name__ == "__main__":

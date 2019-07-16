@@ -1,9 +1,9 @@
 import numpy as np
 import pandas as pd
 import os
+import sys
 from util import mfconfig as cfg
 import json
-import sys
 from util import utils
 
 ############################# Helper ######################################
