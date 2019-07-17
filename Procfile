@@ -1,1 +1,1 @@
-web: gunicorn coreapp.wsgi --log-file -
+web: gunicorn mfmirror_server.wsgi --log-file -
