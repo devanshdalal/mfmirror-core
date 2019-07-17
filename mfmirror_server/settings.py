@@ -25,7 +25,7 @@ SECRET_KEY = 'iqz7(^by2j@$z=edad+6!#%7lyb#!!c%z-2_d3(-1ajm@*iz^m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mfmirrorcore.herokuapp.com']
 
 
 # Application definition
