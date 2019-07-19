@@ -1,9 +1,11 @@
+import sys, os
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import numpy as np
 import pandas as pd
-import os
-import sys
-from util import mfconfig as cfg
 import json
+from util import mfconfig as cfg
 from util import utils
 
 ############################# Helper ######################################

@@ -1,48 +1,47 @@
 ,Stock Invested in,Sector,Sector Total,Value(Cr),% of Total Holdings,1M Change,1Y Highest Holding,1Y Lowest Holding,Quantity,1M Change in Qty,M-Cap,GroupName
-0,The Ramco Cements Ltd. ,Cement,6.25,17.9,4.88,0.10,3.9  (Nov 2018),3.9  (Nov 2018),21.93 k,0.00 ,Mid Cap,65.26
-1,Apollo Hospitals Enterprises Ltd. ,Hospital,4.19,15.4,4.19,-0.06,3.62  (Jul 2018),3.62  (Jul 2018),12.40 k,0.00 ,Mid Cap,65.26
-2,Thermax Ltd. ,Industrial equipment,4.08,14.9,4.08,0.96,2.37  (Mar 2019),0  (Jun 2018),14.65 k,3.29 k,Mid Cap,65.26
-3,Trent Limited ,Retailing,5.61,13.2,3.59,0.23,2.86  (Jun 2018),2.86  (Jun 2018),33.58 k,0.00 ,Mid Cap,65.26
-4,Varun Beverages Ltd. ,Consumer food,6.35,11.9,3.26,0.10,2.06  (Mar 2019),0  (Jun 2018),12.79 k,0.00 ,Mid Cap,65.26
-5,SBI Life Insurance Co Ltd. ,Insurance,5.44,11.7,3.20,1.05,1.82  (Sep 2018),1.82  (Sep 2018),16.88 k,4.97 k,Large Cap,14.12
-6,Cholamandalam Investment & Finance Co. Ltd. ,Nbfc,10.02,11.5,3.13,0.20,2.61  (Sep 2018),2.61  (Sep 2018),7.49 k,0.00 ,Mid Cap,65.26
-7,Siemens Ltd. ,Power equipment,3.12,11.4,3.12,0.80,1.86  (Aug 2018),1.86  (Aug 2018),9.00 k,1.98 k,Large Cap,14.12
-8,Jubilant Foodworks Ltd. ,Consumer food,6.35,11.3,3.09,0.07,2.57  (Oct 2018),2.57  (Oct 2018),8.65 k,602.00 ,Mid Cap,65.26
-9,Bajaj Finance Ltd. ,Nbfc,10.02,11.2,3.05,-0.77,2.83  (Jun 2018),2.83  (Jun 2018),3.23 k,-1.16 k,Large Cap,14.12
-10,City Union Bank Ltd. ,Banks,7.07,11.2,3.05,0.38,2.17  (Jul 2018),2.17  (Jul 2018),52.76 k,5.97 k,Mid Cap,65.26
-11,Crompton Greaves Consumer Electricals Ltd. ,Home appliances,4.72,9.6,2.61,0.43,2.18  (Apr 2019),0  (Jun 2018),40.25 k,7.62 k,Mid Cap,65.26
-12,Indraprastha Gas Ltd. ,Lpg/cng/png/lng supplier,2.41,8.8,2.41,0.10,1.88  (Jun 2018),1.88  (Jun 2018),26.25 k,0.00 ,Mid Cap,65.26
-13,Mphasis Ltd. ,Computers - software,2.33,8.6,2.33,-0.02,2.33  (May 2019),2.33  (May 2019),8.60 k,0.00 ,Mid Cap,65.26
-14,ICICI Lombard General Insurance Co Ltd. ,Insurance,5.44,8.2,2.24,-0.34,1.64  (Jun 2018),1.64  (Jun 2018),6.98 k,-1.40 k,Large Cap,14.12
-15,Tata Global Beverages Ltd. ,Tea &  coffee,2.22,8.2,2.22,1.03,1.15  (Mar 2019),1.15  (Mar 2019),33.41 k,13.13 k,Mid Cap,65.26
-16,EIH Ltd ,Hotels/resorts,2.17,8,2.17,-0.12,1.91  (Sep 2018),1.91  (Sep 2018),43.14 k,0.00 ,Mid Cap,65.26
-17,V-Guard Industries Ltd. ,Industrial electronics,2.13,7.8,2.13,-0.04,1.86  (Sep 2018),1.86  (Sep 2018),32.12 k,-3.20 k,Small Cap,14.95
-18,Whirlpool Of India Ltd. ,Home appliances,4.72,7.7,2.11,0.04,0.93  (Dec 2018),0.93  (Dec 2018),5.26 k,0.00 ,Mid Cap,65.26
-19,Redington (India) Ltd. ,Logistics solution provider,2.05,7.5,2.05,-0.10,1.66  (Jan 2019),1.66  (Jan 2019),75.19 k,0.00 ,Small Cap,14.95
-20,Oberoi Realty Ltd. ,Residential/commercial/sez project,2.05,7.5,2.05,0.14,1.53  (Aug 2018),1.53  (Aug 2018),13.35 k,0.00 ,Mid Cap,65.26
-21,Aditya Birla Fashion and Retail Ltd. ,Retailing,5.61,7.4,2.02,-0.11,0.93  (Jul 2018),0.93  (Jul 2018),35.12 k,0.00 ,Mid Cap,65.26
-22,L&T Technology Services Ltd. ,It enabled services – software,2,7.3,2.00,-0.49,0.35  (Jul 2018),0.35  (Jul 2018),4.17 k,-0.93 k,Mid Cap,65.26
-23,Quess Corp Ltd. ,Diversified commercial services,1.95,7.2,1.95,-0.21,1.95  (May 2019),1.95  (May 2019),11.00 k,0.00 ,Small Cap,14.95
-24,Max Financial Services Ltd. ,Nbfc,10.02,7,1.92,0.08,1.79  (Oct 2018),1.79  (Oct 2018),15.60 k,0.00 ,Mid Cap,65.26
-25,Mahindra & Mahindra Financial Services Ltd. ,Nbfc,10.02,7,1.92,0.04,1.88  (Apr 2019),1.88  (Apr 2019),16.65 k,0.00 ,Mid Cap,65.26
-26,LIC Housing Finance Ltd. ,Housing finance,1.66,6.1,1.66,-0.13,1.6  (Sep 2018),0  (Jun 2018),10.91 k,-1.89 k,Mid Cap,65.26
-27,# Federal Bank Ltd. ,Banks,7.07,6.1,1.66,1.66,1.66  (May 2019),0  (Jun 2018),56.60 k,56.60 k,Mid Cap,65.26
-28,Castrol (india) Ltd. ,Lubricants,1.58,5.8,1.58,-0.11,1.58  (May 2019),1.58  (May 2019),39.42 k,0.00 ,Mid Cap,65.26
-29,GMR Infrastructure Ltd. ,"Engineering, designing, construction",1.57,5.8,1.57,-0.17,1.57  (May 2019),1.57  (May 2019),3.72 L,0.00 ,Small Cap,14.95
-30,JM Financial Ltd. ,Stockbroking and allied,2.84,5.7,1.56,0.07,1.38  (Oct 2018),1.38  (Oct 2018),60.00 k,0.00 ,Small Cap,14.95
-31,Bank Of Baroda ,Banks,7.07,5.7,1.55,0.15,1.4  (Apr 2019),0  (Jun 2018),42.70 k,0.00 ,Large Cap,14.12
-32,Vardhman Textiles Ltd. ,Spinning-cotton/blended,1.48,5.4,1.48,-0.10,1.43  (Aug 2018),1.43  (Aug 2018),4.98 k,0.00 ,Small Cap,14.95
-33,WABCO India Ltd. ,Auto ancillaries,3.78,5.4,1.47,-0.04,1.47  (May 2019),1.47  (May 2019),859.00 ,0.00 ,Mid Cap,65.26
-34,Jindal Steel & Power Ltd. ,Steel,1.43,5.2,1.43,-0.09,1.23  (Jan 2019),1.23  (Jan 2019),32.65 k,2.40 k,Mid Cap,65.26
-35,J.K. Cement Ltd. ,Cement,6.25,5,1.37,0.15,0.99  (Oct 2018),0  (Jun 2018),4.83 k,0.00 ,Small Cap,14.95
-36,Sundaram-Clayton Ltd. ,Auto ancillaries,3.78,4.9,1.35,-0.16,1.35  (May 2019),1.35  (May 2019),1.90 k,0.00 ,Small Cap,14.95
-37,# L&T Finance Holdings Ltd. ,Investment companies,1.55,3.7,1.02,1.02,1.02  (May 2019),0  (Jun 2018),27.91 k,27.91 k,Mid Cap,65.26
-38,# Tata Power Co. Ltd. ,Power,0.98,3.6,0.98,0.98,0.98  (May 2019),0  (Jun 2018),52.45 k,52.45 k,Mid Cap,65.26
-39,Motherson Sumi Systems Ltd. ,Auto ancillaries,3.78,3.5,0.96,0.31,0.65  (Apr 2019),0.65  (Apr 2019),30.54 k,14.80 k,Large Cap,14.12
-40,# Schaeffler India Ltd. ,Bearings,0.96,3.5,0.96,0.96,0.96  (May 2019),0  (Jun 2018),684.00 ,684.00 ,Mid Cap,65.26
-41,Emami Ltd. ,Personal care,0.95,3.5,0.95,-0.43,0.95  (May 2019),0.95  (May 2019),10.03 k,-2.66 k,Mid Cap,65.26
-42,Karur Vysya Bank Ltd ,Banks,7.07,3,0.81,-0.02,0.76  (Mar 2019),0  (Jun 2018),38.01 k,0.00 ,Small Cap,14.95
-43,ICICI Securities Ltd. ,Stockbroking and allied,2.84,2.5,0.68,-0.02,0.68  (May 2019),0  (Jun 2018),11.31 k,0.00 ,Small Cap,14.95
-44,# IIFL Wealth Management Ltd. ,Investment companies,1.55,1.9,0.53,0.53,0.53  (May 2019),0  (Jun 2018),1.45 k,1.45 k,Other,0.61
-45,IIFL Holdings Ltd. ,Stockbroking and allied,2.84,1.9,0.52,-0.71,0.52  (May 2019),0.52  (May 2019),10.14 k,0.00 ,Mid Cap,65.26
-46,# IIFL Securities Ltd. ,Stockbroking and allied,2.84,0.3,0.08,0.08,0.08  (May 2019),0  (Jun 2018),10.14 k,10.14 k,Other,0.61
+0,The Ramco Cements Ltd. ,Cement,6.06,17.2,4.73,-0.16,3.9  (Nov 2018),3.9  (Nov 2018),21.93 k,0.00 ,Mid Cap,62.67
+1,Thermax Ltd. ,Industrial equipment,4.26,15.5,4.26,0.19,2.37  (Mar 2019),0  (Jul 2018),14.65 k,0.00 ,Mid Cap,62.67
+2,Trent Limited ,Retailing,6.15,14.8,4.07,0.48,3.16  (Jul 2018),3.16  (Jul 2018),33.58 k,0.00 ,Mid Cap,62.67
+3,SBI Life Insurance Co Ltd. ,Insurance,5.6,12.2,3.36,0.16,1.82  (Sep 2018),1.82  (Sep 2018),16.88 k,0.00 ,Large Cap,14.57
+4,Varun Beverages Ltd. ,Consumer food,6.26,12.1,3.33,0.07,2.06  (Mar 2019),0  (Jul 2018),12.79 k,0.00 ,Mid Cap,62.67
+5,Bajaj Finance Ltd. ,Nbfc,9.74,11.9,3.27,0.21,2.84  (Sep 2018),2.84  (Sep 2018),3.23 k,0.00 ,Large Cap,14.57
+6,Siemens Ltd. ,Power equipment,3.25,11.8,3.25,0.12,1.86  (Aug 2018),1.86  (Aug 2018),9.00 k,0.00 ,Large Cap,14.57
+7,City Union Bank Ltd. ,Banks,7.02,11.5,3.16,0.11,2.17  (Jul 2018),2.17  (Jul 2018),52.76 k,0.00 ,Mid Cap,62.67
+8,Apollo Hospitals Enterprises Ltd. ,Hospital,3.11,11.3,3.11,-1.08,3.11  (Jun 2019),3.11  (Jun 2019),8.33 k,-4.07 k,Mid Cap,62.67
+9,Cholamandalam Investment & Finance Co. Ltd. ,Nbfc,9.74,10.7,2.94,-0.19,2.61  (Sep 2018),2.61  (Sep 2018),37.46 k,37.46 k,Other,3.55
+10,Jubilant Foodworks Ltd. ,Consumer food,6.26,10.7,2.93,-0.15,2.57  (Oct 2018),2.57  (Oct 2018),8.65 k,0.00 ,Mid Cap,62.67
+11,Crompton Greaves Consumer Electricals Ltd. ,Home appliances,4.87,9.3,2.57,-0.04,2.18  (Apr 2019),0  (Jul 2018),40.25 k,0.00 ,Mid Cap,62.67
+12,Tata Global Beverages Ltd. ,Tea &  coffee,2.48,9,2.48,0.25,1.15  (Mar 2019),1.15  (Mar 2019),33.41 k,0.00 ,Mid Cap,62.67
+13,Mphasis Ltd. ,Computers - software,2.37,8.6,2.37,0.04,2.33  (May 2019),2.33  (May 2019),8.60 k,0.00 ,Mid Cap,62.67
+14,Whirlpool Of India Ltd. ,Home appliances,4.87,8.4,2.30,0.19,0.93  (Dec 2018),0.93  (Dec 2018),5.26 k,0.00 ,Mid Cap,62.67
+15,Indraprastha Gas Ltd. ,Lpg/cng/png/lng supplier,2.27,8.3,2.27,-0.14,1.9  (Sep 2018),1.9  (Sep 2018),26.25 k,0.00 ,Mid Cap,62.67
+16,Redington (India) Ltd. ,Logistics solution provider,2.25,8.2,2.25,0.20,1.66  (Jan 2019),1.66  (Jan 2019),75.19 k,0.00 ,Small Cap,14.36
+17,- ICICI Lombard General Insurance Co Ltd. ,Insurance,5.6,8.1,2.24,0.00,1.74  (Aug 2018),1.74  (Aug 2018),7.31 k,328.00 ,Large Cap,14.57
+18,Oberoi Realty Ltd. ,Residential/commercial/sez project,2.23,8.1,2.23,0.19,1.53  (Aug 2018),1.53  (Aug 2018),13.35 k,0.00 ,Mid Cap,62.67
+19,- EIH Ltd ,Hotels/resorts,2.17,7.9,2.17,0.00,1.91  (Sep 2018),1.91  (Sep 2018),43.14 k,0.00 ,Mid Cap,62.67
+20,V-Guard Industries Ltd. ,Industrial electronics,2.15,7.8,2.15,0.02,1.86  (Sep 2018),1.86  (Sep 2018),32.12 k,0.00 ,Small Cap,14.36
+21,Aditya Birla Fashion and Retail Ltd. ,Retailing,6.15,7.6,2.08,0.06,0.93  (Jul 2018),0.93  (Jul 2018),35.12 k,0.00 ,Mid Cap,62.67
+22,- L&T Technology Services Ltd. ,It enabled services – software,2,7.3,2.00,0.00,0.35  (Jul 2018),0.35  (Jul 2018),4.17 k,0.00 ,Mid Cap,62.67
+23,Emami Ltd. ,Personal care,1.89,6.9,1.89,0.94,0.95  (May 2019),0.95  (May 2019),23.02 k,12.99 k,Mid Cap,62.67
+24,Mahindra & Mahindra Financial Services Ltd. ,Nbfc,9.74,6.5,1.78,-0.14,1.78  (Jun 2019),1.78  (Jun 2019),16.65 k,0.00 ,Mid Cap,62.67
+25,Quess Corp Ltd. ,Diversified commercial services,1.75,6.4,1.75,-0.20,1.75  (Jun 2019),1.75  (Jun 2019),11.00 k,0.00 ,Small Cap,14.36
+26,Max Financial Services Ltd. ,Nbfc,9.74,6.4,1.75,-0.17,1.75  (Jun 2019),1.75  (Jun 2019),15.60 k,0.00 ,Mid Cap,62.67
+27,L&T Finance Holdings Ltd. ,Investment companies,2.27,6.3,1.74,0.72,1.02  (May 2019),0  (Jul 2018),54.87 k,26.96 k,Mid Cap,62.67
+28,Federal Bank Ltd. ,Banks,7.02,6.1,1.69,0.03,1.66  (May 2019),0  (Jul 2018),56.60 k,0.00 ,Mid Cap,62.67
+29,LIC Housing Finance Ltd. ,Housing finance,1.67,6.1,1.67,0.00,1.6  (Sep 2018),0  (Jul 2018),10.91 k,0.00 ,Mid Cap,62.67
+30,GMR Infrastructure Ltd. ,"Engineering, designing, construction",1.53,5.6,1.53,-0.05,1.53  (Jun 2019),1.53  (Jun 2019),3.72 L,0.00 ,Small Cap,14.36
+31,Vardhman Textiles Ltd. ,Spinning-cotton/blended,1.45,5.3,1.45,-0.03,1.43  (Aug 2018),1.43  (Aug 2018),4.98 k,0.00 ,Small Cap,14.36
+32,WABCO India Ltd. ,Auto ancillaries,3.68,5.3,1.45,-0.03,1.45  (Jun 2019),1.45  (Jun 2019),859.00 ,0.00 ,Mid Cap,62.67
+33,Castrol (india) Ltd. ,Lubricants,1.44,5.2,1.44,-0.15,1.44  (Jun 2019),1.44  (Jun 2019),39.42 k,0.00 ,Mid Cap,62.67
+34,Bank Of Baroda ,Banks,7.02,5.2,1.43,-0.12,1.4  (Apr 2019),0  (Jul 2018),42.70 k,0.00 ,Large Cap,14.57
+35,J.K. Cement Ltd. ,Cement,6.06,4.8,1.33,-0.04,0.99  (Oct 2018),0  (Jul 2018),4.83 k,0.00 ,Small Cap,14.36
+36,Jindal Steel & Power Ltd. ,Steel,1.28,4.6,1.28,-0.15,1.23  (Jan 2019),1.23  (Jan 2019),32.65 k,0.00 ,Mid Cap,62.67
+37,JM Financial Ltd. ,Stockbroking and allied,2.03,4.6,1.27,-0.30,1.27  (Jun 2019),1.27  (Jun 2019),60.00 k,0.00 ,Small Cap,14.36
+38,Sundaram-Clayton Ltd. ,Auto ancillaries,3.68,4.4,1.21,-0.14,1.21  (Jun 2019),1.21  (Jun 2019),1.90 k,0.00 ,Small Cap,14.36
+39,Motherson Sumi Systems Ltd. ,Auto ancillaries,3.68,3.7,1.02,0.06,0.65  (Apr 2019),0.65  (Apr 2019),30.54 k,0.00 ,Large Cap,14.57
+40,Tata Power Co. Ltd. ,Power,1,3.6,1.00,0.01,0.98  (May 2019),0  (Jul 2018),52.45 k,0.00 ,Mid Cap,62.67
+41,Schaeffler India Ltd. ,Bearings,0.92,3.3,0.92,-0.04,0.92  (Jun 2019),0  (Jul 2018),684.00 ,0.00 ,Mid Cap,62.67
+42,Karur Vysya Bank Ltd ,Banks,7.02,2.7,0.74,-0.07,0.74  (Jun 2019),0  (Jul 2018),38.01 k,0.00 ,Small Cap,14.36
+43,- ICICI Securities Ltd. ,Stockbroking and allied,2.03,2.5,0.68,0.00,0.68  (May 2019),0  (Jul 2018),11.31 k,0.00 ,Small Cap,14.36
+44,- IIFL Wealth Management Ltd. ,Investment companies,2.27,1.9,0.53,0.00,0.53  (May 2019),0  (Jul 2018),1.45 k,1.45 k,Other,3.55
+45,- IIFL Securities Ltd. ,Stockbroking and allied,2.03,0.3,0.08,0.00,0.08  (May 2019),0  (Jul 2018),10.14 k,10.14 k,Other,3.55

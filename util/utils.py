@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import argparse
 import os
-from django.conf import settings
 
 ###########################################################################
 ### Utils
@@ -9,6 +8,8 @@ from django.conf import settings
 
 MC = 'MC'
 VRO = 'VRO'
+BASE_DIR_UTILS = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR_CSVS = os.path.join(BASE_DIR_UTILS, 'mf-data')
 
 def ParseCmd(argv):
     """Parses the command line arguments."""
@@ -24,12 +25,12 @@ def ParseCmd(argv):
 
 def RemoveSpaces(l):
     if len(l)>0 and isinstance(l[0], list):
-        return map(lambda x: filter(lambda y: not y.isspace(), x), l)
+        return list(map(lambda x: list(filter(lambda y: not y.isspace(), x)), l))
     else:
-        return filter(lambda y: not y.isspace(), l)
+        return list(filter(lambda y: not y.isspace(), l))
 
-def GetFileByName(name, dir = 'mf-data'):
-    mf_data = os.path.join(settings.BASE_DIR, 'util', dir)
+def GetFileByName(name):
+    mf_data = os.path.join(BASE_DIR_CSVS, dir)
     os.system('mkdir -p '+ mf_data);
     if not name.endswith('.csv'):
         name = name + '.csv'

@@ -1,13 +1,18 @@
+import sys, os
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import numpy as np
 import pandas as pd
 import requests
 from lxml import html
 import xml.etree.ElementTree as ET
+import requests_cache
+
 from util import scrapper_config as cfg
 from util import utils
-import os
-import sys
-import requests_cache
+
+# Install the requests cache
 requests_cache.install_cache('requests_cache', expire_after=600)
 
 ###########################################################################
@@ -46,19 +51,20 @@ def ExtractLinks(url):
     return out
 
 def ParseMoneyControl(url):
+    print('url:', url)
     page = requests.get(url)
     tree = html.fromstring(page.content)
     rows = tree.xpath('//table[@id="equityCompleteHoldingTable"]//tr[not(@style)]')
-    header = filter(lambda y: not y.isspace(), rows[0].xpath('./th//text()'))
-    rows = map(lambda x: x.xpath('./td'), rows[1:])
+    print(ET.tostring(rows[0]))
+    header = list(filter(lambda y: not y.isspace(), rows[0].xpath('./th//text()')))
+    rows = list(map(lambda x: x.xpath('./td'), rows[1:]))
     for i,x in enumerate(rows):
-        rows[i] = map(lambda y: ' '.join(utils.RemoveSpaces(y.xpath('.//text()'))), x)
-        rows[i] = map(lambda y: y.replace('%', ''), rows[i])  # strip % signs
+        rows[i] = list(map(lambda y: ' '.join(utils.RemoveSpaces(y.xpath('.//text()'))), x))
+        rows[i] = list(map(lambda y: y.replace('%', ''), rows[i]))  # strip % signs
     rows = utils.RemoveSpaces(rows)
-    # final = np.array(rows)
     final = np.array([np.array(xi) for xi in rows])
-    id = url.split('/')[-3]
 
+    id = url.split('/')[-3]
     fname = utils.GetFileByName(id.replace(' ', '_') + '.csv')
     pd.DataFrame(final).to_csv(fname, encoding = 'utf-8', header=header)
     return fname

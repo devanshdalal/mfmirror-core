@@ -1,71 +1,72 @@
 ,Stock Invested in,Sector,Sector Total,Value(Cr),% of Total Holdings,1M Change,1Y Highest Holding,1Y Lowest Holding,Quantity,1M Change in Qty,M-Cap,GroupName
-0,Chambal Fertilizers & Chemicals Ltd. ,Fertilisers-composite,3.09,2594.3,3.09,0.31,2.43  (Jul 2018),2.43  (Jul 2018),1.37 Cr,0.00 ,Small Cap,64.38
-1,Sonata Software Ltd. ,Computers - software,6.08,2583.9,3.08,-0.02,2.46  (Aug 2018),2.46  (Aug 2018),72.44 L,65.80 k,Small Cap,64.38
-2,NIIT Techonologies Ltd. ,Computers - software,6.08,2524.5,3.00,-0.18,2.9  (Sep 2018),2.9  (Sep 2018),19.32 L,50.00 k,Small Cap,64.38
-3,Bank Of Baroda ,Banks,12.41,2339.4,2.78,1.16,1.62  (Apr 2019),0  (Jun 2018),1.76 Cr,69.43 L,Large Cap,5.45
-4,Aurobindo Pharma Ltd. ,Pharmaceuticals,4.25,2240.6,2.67,-0.79,2.67  (May 2019),2.67  (May 2019),33.32 L,1.00 L,Large Cap,5.45
-5,DCB Bank Ltd. ,Banks,12.41,2200.6,2.62,2.39,0.23  (Apr 2019),0  (Jun 2018),94.39 L,86.19 L,Small Cap,64.38
-6,Balkrishna Industries Ltd. ,Tyres & allied,2.96,2089.2,2.49,-0.71,2.03  (Nov 2018),0  (Jun 2018),26.83 L,0.00 ,Mid Cap,16.78
-7,Gujarat Fluorochemicals Ltd. ,Power equipment,3.16,2076.2,2.47,-0.21,1.8  (Dec 2018),0  (Jun 2018),19.74 L,0.00 ,Mid Cap,16.78
-8,Federal Bank Ltd. ,Banks,12.41,2060,2.45,1.34,0.57  (Sep 2018),0.57  (Sep 2018),1.92 Cr,1.00 Cr,Mid Cap,16.78
-9,- Indian Bank ,Banks,12.41,2021,2.41,0.00,2.08  (Aug 2018),2.08  (Aug 2018),73.11 L,0.00 ,Mid Cap,16.78
-10,Firstsource Solutions Ltd. ,It enabled services – software,2.84,1911.9,2.28,0.25,1.85  (Mar 2019),1.85  (Mar 2019),3.50 Cr,41.97 L,Small Cap,64.38
-11,Sharda Cropchem Ltd. ,Pesticides and agrochemicals,3.55,1919,2.28,-0.28,2.28  (May 2019),2.28  (May 2019),54.30 L,7.20 k,Small Cap,64.38
-12,Indian Hotels Company Limited ,Hotels/resorts,6.06,1888.2,2.25,-0.17,1.13  (Aug 2018),1.13  (Aug 2018),1.20 Cr,0.00 ,Mid Cap,16.78
-13,KEC International Ltd. ,"Engineering, designing, construction",5.5,1837.4,2.19,0.09,0.47  (Sep 2018),0  (Jun 2018),57.40 L,1.00 L,Small Cap,64.38
-14,KEI Industries Ltd. ,Cables - electricals,2.19,1839.6,2.19,0.41,1.02  (Sep 2018),1.02  (Sep 2018),34.99 L,1.52 L,Small Cap,64.38
-15,Sadbhav Engineering Ltd. ,"Engineering, designing, construction",5.5,1802.7,2.15,0.09,0.4  (Feb 2019),0.4  (Feb 2019),70.90 L,4.29 L,Small Cap,64.38
-16,Kalpataru Power Transmission Ltd. ,Transmission towers,2.1,1767.3,2.10,0.03,0.79  (Sep 2018),0.79  (Sep 2018),35.00 L,95.00 k,Small Cap,64.38
-17,INOX Leisure Ltd. ,"Flim production, distribution & exhibition",2.07,1739.3,2.07,0.18,1.27  (Jul 2018),0  (Jun 2018),46.23 L,0.00 ,Small Cap,64.38
-18,SKF India Ltd. ,Bearings,3.8,1727.5,2.06,-0.29,1.97  (Mar 2019),1.97  (Mar 2019),9.13 L,0.00 ,Small Cap,64.38
-19,Chalet Hotels Ltd. ,Hotels/resorts,6.06,1692.4,2.01,-0.03,0.55  (Jan 2019),0  (Jun 2018),48.47 L,0.00 ,Other,2.01
-20,Atul Ltd. ,Chemicals - speciality,1.75,1467.2,1.75,0.34,1.41  (Apr 2019),1.41  (Apr 2019),3.63 L,47.32 k,Mid Cap,16.78
-21,Nrb Bearings Ltd. ,Bearings,3.8,1465.1,1.74,-0.34,0.94  (Sep 2018),0.94  (Sep 2018),86.69 L,1.25 L,Small Cap,64.38
-22,Repco Home Finance Ltd. ,Housing finance,1.68,1412.7,1.68,-0.23,0.4  (Nov 2018),0  (Jun 2018),35.07 L,0.00 ,Small Cap,64.38
-23,PNC Infratech Ltd. ,Construction civil,1.61,1352.3,1.61,0.40,0.81  (Feb 2019),0.81  (Feb 2019),69.14 L,7.68 L,Small Cap,64.38
-24,Oriental Bank Of Commerce ,Banks,12.41,1346.2,1.60,-0.11,0.45  (Jun 2018),0.45  (Jun 2018),1.36 Cr,0.00 ,Mid Cap,16.78
-25,Vardhman Textiles Ltd. ,Spinning-cotton/blended,1.58,1330,1.58,-0.04,1.58  (May 2019),1.58  (May 2019),12.21 L,1.19 L,Small Cap,64.38
-26,Tube Investments Of India Ltd. ,Auto ancillaries,3.28,1311.6,1.56,-0.09,1.11  (Jul 2018),1.11  (Jul 2018),33.68 L,53.10 k,Small Cap,64.38
-27,Tata Metaliks Ltd. ,Pig iron,2.08,1273.1,1.52,-0.20,1.49  (Jul 2018),1.49  (Jul 2018),21.13 L,0.00 ,Small Cap,64.38
-28,Great Eastern Shipping Co. Ltd. ,Shipping,1.45,1219.2,1.45,-0.19,0.92  (Jun 2018),0.92  (Jun 2018),43.50 L,0.00 ,Small Cap,64.38
-29,EIH Ltd ,Hotels/resorts,6.06,1138.8,1.36,-0.16,1.36  (May 2019),1.36  (May 2019),61.69 L,0.00 ,Mid Cap,16.78
-30,Bajaj Electricals Ltd. ,Home appliances,1.34,1126.6,1.34,-0.21,0.43  (Mar 2019),0  (Jun 2018),20.96 L,26.45 k,Small Cap,64.38
-31,Finolex Industries Ltd. ,Plastic products,2.98,1130,1.34,-0.04,1.34  (May 2019),0  (Jun 2018),22.82 L,0.00 ,Small Cap,64.38
-32,TV Today Network Ltd. ,Tv broadcasting & software production,1.34,1128.3,1.34,-0.22,1.34  (May 2019),1.34  (May 2019),38.92 L,0.00 ,Small Cap,64.38
-33,Insecticides (India) Ltd. ,Pesticides and agrochemicals,3.55,1066,1.27,0.05,0.51  (Oct 2018),0.51  (Oct 2018),15.24 L,28.75 k,Small Cap,64.38
-34,Carborundum Universal Ltd. ,Abrasives,1.22,1027,1.22,-0.06,1.22  (May 2019),1.22  (May 2019),27.27 L,0.00 ,Small Cap,64.38
-35,Power Mech Projects Ltd. ,"Engineering, designing, construction",5.5,973.7,1.16,0.12,1.04  (Apr 2019),1.04  (Apr 2019),9.28 L,33.00 k,Small Cap,64.38
-36,Advanced Enzyme Technologies Ltd. ,Consumer products,1.11,933.5,1.11,0.03,1.03  (Feb 2019),1.03  (Feb 2019),43.51 L,0.00 ,Small Cap,64.38
-37,Nilkamal Ltd. ,Plastic products,2.98,828.6,0.99,-0.19,0.99  (May 2019),0.99  (May 2019),6.81 L,0.00 ,Small Cap,64.38
-38,Merck Ltd. ,Pharmaceuticals,4.25,770.3,0.92,0.66,0.26  (Apr 2019),0.26  (Apr 2019),1.88 L,1.35 L,Small Cap,64.38
-39,Orient Refractories Ltd. ,Castings/forgings,0.8,672.8,0.80,-0.14,0.63  (Sep 2018),0  (Jun 2018),29.87 L,0.00 ,Small Cap,64.38
-40,Redington (India) Ltd. ,Logistics solution provider,0.78,651.3,0.78,-0.08,0.77  (Jan 2019),0.77  (Jan 2019),65.03 L,0.00 ,Small Cap,64.38
-41,Oriental Carbon and Chemicals Ltd. ,Chemicals - inorganic,0.76,640.9,0.76,-0.06,0.76  (May 2019),0.76  (May 2019),5.46 L,0.00 ,Small Cap,64.38
-42,Unichem Laboratories Ltd. ,Pharmaceuticals,4.25,550.8,0.66,-0.06,0.21  (Dec 2018),0.21  (Dec 2018),28.92 L,0.00 ,Small Cap,64.38
-43,IFGL Refractories Limited ,Refractories,1.23,547.6,0.65,-0.15,0.09  (Jun 2018),0.09  (Jun 2018),25.97 L,0.00 ,Small Cap,64.38
-44,L G Balakrishnan & Bros Ltd. ,Auto ancillaries,3.28,513.5,0.61,-0.05,0.61  (May 2019),0.61  (May 2019),13.79 L,0.00 ,Small Cap,64.38
-45,Gabriel India Ltd. ,Auto ancillaries,3.28,504.1,0.60,-0.12,0.15  (Oct 2018),0  (Jun 2018),37.69 L,0.00 ,Small Cap,64.38
-46,Vesuvius India Ltd. ,Refractories,1.23,487.7,0.58,-0.04,0.58  (May 2019),0.58  (May 2019),4.18 L,0.00 ,Small Cap,64.38
-47,Apar Industries Ltd. ,Power equipment,3.16,479.6,0.57,-0.05,0.57  (May 2019),0.57  (May 2019),7.16 L,0.00 ,Small Cap,64.38
-48,eClerx Services Ltd. ,It enabled services – software,2.84,468.6,0.56,-0.19,0.56  (May 2019),0.56  (May 2019),5.02 L,0.00 ,Small Cap,64.38
-49,Kirloskar Ferrous Industries Ltd. ,Pig iron,2.08,470.9,0.56,-0.07,0.33  (Jul 2018),0.33  (Jul 2018),53.26 L,25.00 k,Small Cap,64.38
-50,Allahabad Bank ,Banks,12.41,465.9,0.55,-0.09,0.44  (Sep 2018),0.44  (Sep 2018),1.04 Cr,0.00 ,Small Cap,64.38
-51,Jagran Prakashan Ltd. ,Printing and publishing,0.94,465.7,0.55,-0.05,0.52  (Feb 2019),0.52  (Feb 2019),40.53 L,0.00 ,Small Cap,64.38
-52,Lemon Tree Hotels Ltd. ,Hotels,0.55,461.6,0.55,-0.05,0.55  (May 2019),0.55  (May 2019),61.42 L,0.00 ,Small Cap,64.38
-53,Shaily Engineering Plastics Ltd. ,Plastic products,2.98,441.8,0.53,-0.14,0.53  (May 2019),0.53  (May 2019),6.90 L,0.00 ,Small Cap,64.38
-54,Goodyear India Ltd. ,Tyres & allied,2.96,396,0.47,-0.05,0.46  (Jan 2019),0.46  (Jan 2019),4.19 L,0.00 ,Small Cap,64.38
-55,Atul Auto Ltd. ,Commercial vehicles,0.45,382,0.45,-0.07,0.45  (May 2019),0.45  (May 2019),12.17 L,0.00 ,Small Cap,64.38
-56,Taj GVK Hotels & Resorts Ltd. ,Hotels/resorts,6.06,372.8,0.44,-0.09,0.37  (Dec 2018),0.37  (Dec 2018),18.07 L,0.00 ,Small Cap,64.38
-57,Greenlam Industries Ltd. ,Plywood boards,0.58,351.9,0.42,-0.07,0.42  (May 2019),0.42  (May 2019),4.01 L,0.00 ,Small Cap,64.38
-58,DB Corp Ltd. ,Printing and publishing,0.94,325.4,0.39,0.11,0.28  (Apr 2019),0.28  (Apr 2019),16.53 L,5.02 L,Small Cap,64.38
-59,GNA Axles Ltd. ,Auto ancillaries,3.28,317.9,0.38,-0.04,0.38  (May 2019),0.38  (May 2019),10.56 L,0.00 ,Small Cap,64.38
-60,Swaraj Engines Ltd. ,Diesel engines,0.25,210.1,0.25,-0.02,0.25  (May 2019),0.25  (May 2019),1.50 L,0.00 ,Small Cap,64.38
-61,Everest Industries Ltd. ,Cement products,0.22,183.8,0.22,-0.01,0.22  (May 2019),0.22  (May 2019),4.12 L,0.00 ,Small Cap,64.38
-62,Mcleod Russel (India) Ltd. ,Tea &  coffee,0.2,169.3,0.20,-0.21,0.2  (May 2019),0  (Jun 2018),50.91 L,0.00 ,Small Cap,64.38
-63,Greenply Industries Ltd. ,Plywood boards,0.58,136,0.16,-0.02,0.16  (May 2019),0.16  (May 2019),8.38 L,0.00 ,Small Cap,64.38
-64,VST Tillers Tractors Ltd. ,Tractors,0.16,137.3,0.16,-0.02,0.16  (May 2019),0.16  (May 2019),1.06 L,0.00 ,Small Cap,64.38
-65,Banco Products (India) Ltd. ,Auto ancillaries,3.28,111.1,0.13,-0.02,0.13  (May 2019),0.13  (May 2019),7.90 L,0.00 ,Small Cap,64.38
-66,CG Power and Industrial Solutions Ltd. ,Power equipment,3.16,98.8,0.12,-0.02,0.12  (May 2019),0.12  (May 2019),27.88 L,0.00 ,Small Cap,64.38
-67,- Time Technoplast Ltd. ,Plastic products,2.98,103.5,0.12,0.00,0.12  (May 2019),0.12  (Apr 2019),10.32 L,0.00 ,Small Cap,64.38
-68,- Titagarh Wagons ,Railways wagons,0.12,104.9,0.12,0.00,0.12  (Apr 2019),0.12  (Apr 2019),15.09 L,0.00 ,Small Cap,64.38
-69,Sarla Performance Fibres Ltd. ,Man made fibres/blended,0.1,83.2,0.10,-0.01,0.1  (May 2019),0.1  (May 2019),29.52 L,-4.87 L,Small Cap,64.38
+0,NIIT Techonologies Ltd. ,Computers - software,6.08,2598.7,3.08,0.08,2.9  (Sep 2018),2.9  (Sep 2018),19.32 L,0.00 ,Small Cap,64.12
+1,DCB Bank Ltd. ,Banks,12.39,2540.7,3.01,0.39,0.23  (Apr 2019),0  (Jul 2018),1.07 Cr,12.77 L,Small Cap,64.12
+2,Sonata Software Ltd. ,Computers - software,6.08,2531,3.00,-0.08,2.46  (Aug 2018),2.46  (Aug 2018),72.44 L,0.00 ,Small Cap,64.12
+3,Chambal Fertilizers & Chemicals Ltd. ,Fertilisers-composite,2.85,2398.4,2.85,-0.24,2.43  (Jul 2018),2.43  (Jul 2018),1.37 Cr,0.00 ,Small Cap,64.12
+4,Bank Of Baroda ,Banks,12.39,2134.9,2.53,-0.25,1.62  (Apr 2019),0  (Jul 2018),1.76 Cr,0.00 ,Large Cap,4.93
+5,Federal Bank Ltd. ,Banks,12.39,2080.1,2.47,0.02,0.57  (Sep 2018),0.57  (Sep 2018),1.92 Cr,0.00 ,Mid Cap,16.1
+6,Balkrishna Industries Ltd. ,Tyres & allied,2.89,2028.2,2.41,-0.08,2.03  (Nov 2018),0  (Jul 2018),26.83 L,0.00 ,Mid Cap,16.1
+7,Aurobindo Pharma Ltd. ,Pharmaceuticals,4.21,2026.2,2.40,-0.27,2.4  (Jun 2019),2.4  (Jun 2019),33.32 L,0.00 ,Large Cap,4.93
+8,Indian Bank ,Banks,12.39,1899.3,2.25,-0.16,2.08  (Aug 2018),2.08  (Aug 2018),73.11 L,0.00 ,Mid Cap,16.1
+9,- Indian Hotels Company Limited ,Hotels/resorts,5.82,1893,2.25,0.00,1.13  (Aug 2018),1.13  (Aug 2018),1.20 Cr,0.00 ,Mid Cap,16.1
+10,- KEC International Ltd. ,"Engineering, designing, construction",5.36,1846,2.19,0.00,0.47  (Sep 2018),0  (Jul 2018),57.40 L,0.00 ,Small Cap,64.12
+11,Kalpataru Power Transmission Ltd. ,Transmission towers,2.18,1837,2.18,0.08,0.79  (Sep 2018),0.79  (Sep 2018),35.00 L,0.00 ,Small Cap,64.12
+12,SKF India Ltd. ,Bearings,3.86,1829.3,2.17,0.11,1.97  (Mar 2019),1.97  (Mar 2019),9.13 L,0.00 ,Small Cap,64.12
+13,Firstsource Solutions Ltd. ,It enabled services – software,2.6,1822.3,2.16,-0.12,1.85  (Mar 2019),1.85  (Mar 2019),3.69 Cr,19.42 L,Small Cap,64.12
+14,Gujarat Fluorochemicals Ltd. ,Power equipment,2.73,1809.6,2.15,-0.32,1.8  (Dec 2018),0  (Jul 2018),19.74 L,0.00 ,Mid Cap,16.1
+15,Sadbhav Engineering Ltd. ,"Engineering, designing, construction",5.36,1748.1,2.07,-0.08,0.4  (Feb 2019),0.4  (Feb 2019),71.03 L,13.00 k,Small Cap,64.12
+16,Sharda Cropchem Ltd. ,Pesticides and agrochemicals,3.21,1707.5,2.03,-0.25,2.03  (Jun 2019),2.03  (Jun 2019),54.30 L,0.00 ,Small Cap,64.12
+17,KEI Industries Ltd. ,Cables - electricals,2.02,1705.6,2.02,-0.17,1.02  (Sep 2018),1.02  (Sep 2018),35.53 L,53.20 k,Small Cap,64.12
+18,Chalet Hotels Ltd. ,Hotels/resorts,5.82,1541.2,1.83,-0.18,0.55  (Jan 2019),0  (Jul 2018),48.47 L,0.00 ,Other,1.83
+19,INOX Leisure Ltd. ,"Flim production, distribution & exhibition",1.79,1512.6,1.79,-0.28,1.27  (Jul 2018),1.27  (Jul 2018),46.23 L,0.00 ,Small Cap,64.12
+20,PNC Infratech Ltd. ,Construction civil,1.77,1491.3,1.77,0.16,0.81  (Feb 2019),0.81  (Feb 2019),74.14 L,5.00 L,Small Cap,64.12
+21,Vardhman Textiles Ltd. ,Spinning-cotton/blended,1.72,1447.9,1.72,0.14,1.58  (May 2019),1.58  (May 2019),13.65 L,1.45 L,Small Cap,64.12
+22,Atul Ltd. ,Chemicals - speciality,1.71,1443.2,1.71,-0.04,1.41  (Apr 2019),1.41  (Apr 2019),3.63 L,0.00 ,Mid Cap,16.1
+23,Nrb Bearings Ltd. ,Bearings,3.86,1424.3,1.69,-0.05,0.94  (Sep 2018),0.94  (Sep 2018),86.69 L,0.00 ,Small Cap,64.12
+24,Repco Home Finance Ltd. ,Housing finance,1.59,1338.5,1.59,-0.09,0.4  (Nov 2018),0  (Jul 2018),35.07 L,0.00 ,Small Cap,64.12
+25,Tube Investments Of India Ltd. ,Auto ancillaries,3.04,1293.6,1.53,-0.03,1.11  (Jul 2018),1.11  (Jul 2018),33.68 L,0.00 ,Small Cap,64.12
+26,Oriental Bank Of Commerce ,Banks,12.39,1279,1.52,-0.08,0.52  (Sep 2018),0.52  (Sep 2018),1.36 Cr,0.00 ,Mid Cap,16.1
+27,Tata Metaliks Ltd. ,Pig iron,2.02,1273.9,1.51,-0.01,1.49  (Jul 2018),1.49  (Jul 2018),21.13 L,0.00 ,Small Cap,64.12
+28,TV Today Network Ltd. ,Tv broadcasting & software production,1.38,1162.5,1.38,0.04,1.34  (May 2019),1.34  (May 2019),41.30 L,2.38 L,Small Cap,64.12
+29,Finolex Industries Ltd. ,Plastic products,2.91,1156.9,1.37,0.03,1.34  (May 2019),0  (Jul 2018),22.82 L,0.00 ,Small Cap,64.12
+30,Great Eastern Shipping Co. Ltd. ,Shipping,1.36,1149.6,1.36,-0.09,0.95  (Jul 2018),0.95  (Jul 2018),43.50 L,0.00 ,Small Cap,64.12
+31,EIH Ltd ,Hotels/resorts,5.82,1128.7,1.34,-0.02,1.34  (Jun 2019),1.34  (Jun 2019),61.69 L,0.00 ,Mid Cap,16.1
+32,Bajaj Electricals Ltd. ,Home appliances,1.32,1109.5,1.32,-0.02,0.43  (Mar 2019),0  (Jul 2018),20.96 L,0.00 ,Small Cap,64.12
+33,# Aster DM Healthcare Ltd. ,Hospital,1.24,1043.7,1.24,1.24,1.24  (Jun 2019),0  (Jul 2018),83.00 L,83.00 L,Small Cap,64.12
+34,Merck Ltd. ,Pharmaceuticals,4.21,1037.2,1.23,0.31,0.26  (Apr 2019),0.26  (Apr 2019),2.53 L,64.21 k,Small Cap,64.12
+35,Insecticides (India) Ltd. ,Pesticides and agrochemicals,3.21,992.9,1.18,-0.09,0.51  (Oct 2018),0.51  (Oct 2018),15.33 L,8.42 k,Small Cap,64.12
+36,Carborundum Universal Ltd. ,Abrasives,1.16,979,1.16,-0.06,1.16  (Jun 2019),1.16  (Jun 2019),27.41 L,14.11 k,Small Cap,64.12
+37,Power Mech Projects Ltd. ,"Engineering, designing, construction",5.36,924.5,1.10,-0.06,1.04  (Apr 2019),1.04  (Apr 2019),9.28 L,0.00 ,Small Cap,64.12
+38,Nilkamal Ltd. ,Plastic products,2.91,816,0.97,-0.02,0.97  (Jun 2019),0.97  (Jun 2019),6.81 L,0.00 ,Small Cap,64.12
+39,Advanced Enzyme Technologies Ltd. ,Consumer products,0.88,738.6,0.88,-0.23,0.88  (Jun 2019),0.88  (Jun 2019),43.51 L,0.00 ,Small Cap,64.12
+40,Redington (India) Ltd. ,Logistics solution provider,0.84,708.6,0.84,0.06,0.77  (Jan 2019),0.77  (Jan 2019),65.03 L,0.00 ,Small Cap,64.12
+41,Oriental Carbon and Chemicals Ltd. ,Chemicals - inorganic,0.75,631,0.75,-0.01,0.75  (Jun 2019),0.75  (Jun 2019),5.46 L,0.00 ,Small Cap,64.12
+42,Orient Refractories Ltd. ,Castings/forgings,0.72,606.9,0.72,-0.08,0.63  (Sep 2018),0  (Jul 2018),29.87 L,0.00 ,Small Cap,64.12
+43,Allahabad Bank ,Banks,12.39,516.6,0.61,0.06,0.44  (Sep 2018),0.44  (Sep 2018),1.04 Cr,0.00 ,Small Cap,64.12
+44,DB Corp Ltd. ,Printing and publishing,1.13,518.2,0.61,0.22,0.28  (Apr 2019),0.28  (Apr 2019),26.96 L,10.43 L,Small Cap,64.12
+45,IFGL Refractories Limited ,Refractories,1.14,496.3,0.59,-0.06,0.1  (Jul 2018),0.1  (Jul 2018),25.97 L,0.00 ,Small Cap,64.12
+46,Unichem Laboratories Ltd. ,Pharmaceuticals,4.21,492.5,0.58,-0.08,0.21  (Dec 2018),0.21  (Dec 2018),28.92 L,0.00 ,Small Cap,64.12
+47,L G Balakrishnan & Bros Ltd. ,Auto ancillaries,3.04,469.9,0.56,-0.05,0.56  (Jun 2019),0.56  (Jun 2019),13.79 L,0.00 ,Small Cap,64.12
+48,Vesuvius India Ltd. ,Refractories,1.14,466.5,0.55,-0.03,0.55  (Jun 2019),0.55  (Jun 2019),4.18 L,0.00 ,Small Cap,64.12
+49,Jagran Prakashan Ltd. ,Printing and publishing,1.13,439.8,0.52,-0.03,0.52  (Feb 2019),0.52  (Jun 2019),40.53 L,0.00 ,Small Cap,64.12
+50,Kirloskar Ferrous Industries Ltd. ,Pig iron,2.02,432,0.51,-0.05,0.33  (Jul 2018),0.33  (Jul 2018),53.26 L,0.00 ,Small Cap,64.12
+51,Gabriel India Ltd. ,Auto ancillaries,3.04,424,0.50,-0.10,0.15  (Oct 2018),0  (Jul 2018),37.69 L,0.00 ,Small Cap,64.12
+52,Apar Industries Ltd. ,Power equipment,2.73,414,0.49,-0.08,0.49  (Jun 2019),0.49  (Jun 2019),7.16 L,0.00 ,Small Cap,64.12
+53,Lemon Tree Hotels Ltd. ,Hotels,0.49,410.6,0.49,-0.06,0.49  (Jun 2019),0.49  (Jun 2019),61.42 L,0.00 ,Small Cap,64.12
+54,Goodyear India Ltd. ,Tyres & allied,2.89,403.1,0.48,0.01,0.46  (Jan 2019),0.46  (Jan 2019),4.19 L,0.00 ,Small Cap,64.12
+55,Shaily Engineering Plastics Ltd. ,Plastic products,2.91,380.4,0.45,-0.08,0.45  (Jun 2019),0.45  (Jun 2019),6.90 L,0.00 ,Small Cap,64.12
+56,eClerx Services Ltd. ,It enabled services – software,2.6,369.4,0.44,-0.12,0.44  (Jun 2019),0.44  (Jun 2019),4.82 L,-0.20 L,Small Cap,64.12
+57,Taj GVK Hotels & Resorts Ltd. ,Hotels/resorts,5.82,339.1,0.40,-0.04,0.37  (Dec 2018),0.37  (Dec 2018),18.07 L,0.00 ,Small Cap,64.12
+58,Atul Auto Ltd. ,Commercial vehicles,0.39,327.1,0.39,-0.06,0.39  (Jun 2019),0.39  (Jun 2019),12.17 L,0.00 ,Small Cap,64.12
+59,Greenlam Industries Ltd. ,Plywood boards,0.53,307.9,0.37,-0.05,0.37  (Jun 2019),0.37  (Jun 2019),4.01 L,0.00 ,Small Cap,64.12
+60,GNA Axles Ltd. ,Auto ancillaries,3.04,287.7,0.34,-0.04,0.34  (Jun 2019),0.34  (Jun 2019),10.56 L,0.00 ,Small Cap,64.12
+61,- Swaraj Engines Ltd. ,Diesel engines,0.25,210.1,0.25,0.00,0.25  (May 2019),0.25  (May 2019),1.50 L,0.00 ,Small Cap,64.12
+62,Everest Industries Ltd. ,Cement products,0.19,163.2,0.19,-0.03,0.19  (Jun 2019),0.19  (Jun 2019),4.12 L,0.00 ,Small Cap,64.12
+63,- Greenply Industries Ltd. ,Plywood boards,0.53,137.3,0.16,0.00,0.16  (Jun 2019),0.16  (Jun 2019),8.38 L,0.00 ,Small Cap,64.12
+64,- VST Tillers Tractors Ltd. ,Tractors,0.16,137.2,0.16,0.00,0.16  (Jun 2019),0.16  (May 2019),1.06 L,0.00 ,Small Cap,64.12
+65,- Time Technoplast Ltd. ,Plastic products,2.91,97.7,0.12,0.00,0.12  (May 2019),0.12  (May 2019),10.32 L,0.00 ,Small Cap,64.12
+66,Banco Products (India) Ltd. ,Auto ancillaries,3.04,94.4,0.11,-0.02,0.11  (Jun 2019),0.11  (Jun 2019),7.90 L,0.00 ,Small Cap,64.12
+67,Titagarh Wagons ,Railways wagons,0.11,95.6,0.11,-0.01,0.11  (Jun 2019),0.11  (Jun 2019),15.09 L,0.00 ,Small Cap,64.12
+68,Mcleod Russel (India) Ltd. ,Tea &  coffee,0.1,84.5,0.10,-0.10,0.1  (Jun 2019),0  (Jul 2018),50.91 L,0.00 ,Small Cap,64.12
+69,CG Power and Industrial Solutions Ltd. ,Power equipment,2.73,79.6,0.09,-0.03,0.09  (Jun 2019),0.09  (Jun 2019),27.88 L,0.00 ,Small Cap,64.12
+70,Sarla Performance Fibres Ltd. ,Man made fibres/blended,0.09,78.6,0.09,-0.01,0.09  (Jun 2019),0.09  (Jun 2019),29.16 L,-0.36 L,Small Cap,64.12

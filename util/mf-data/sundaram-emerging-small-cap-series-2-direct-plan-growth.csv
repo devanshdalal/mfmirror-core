@@ -1,61 +1,62 @@
 ,Stock Invested in,Sector,Sector Total,Value(Cr),% of Total Holdings,1M Change,1Y Highest Holding,1Y Lowest Holding,Quantity,1M Change in Qty,M-Cap,GroupName
-0,J.K. Cement Ltd. ,Cement,7.07,59.1,3.35,0.34,1.93  (Jun 2018),1.93  (Jun 2018),56.69 k,0.00 ,Small Cap,95.62
-1,Grindwell Norton Ltd. ,Abrasives,4.69,58.3,3.30,-0.18,2.68  (Jul 2018),2.68  (Jul 2018),97.89 k,0.00 ,Small Cap,95.62
-2,TCNS Clothing Company Ltd. ,Fabrics and garments,5.81,57.3,3.24,-0.19,2.55  (Jul 2018),0  (Jun 2018),70.31 k,-1.03 k,Small Cap,95.62
-3,Blue Star Ltd. ,Air conditioner,3.88,50.8,2.88,0.38,2.21  (Jun 2018),2.21  (Jun 2018),63.00 k,0.00 ,Small Cap,95.62
-4,Ashoka Buildcon Ltd. ,"Engineering, designing, construction",4.05,49.6,2.81,0.28,2.25  (Sep 2018),2.25  (Sep 2018),3.47 L,0.00 ,Small Cap,95.62
-5,Orient Electric Ltd. ,Home appliances,2.8,49.4,2.80,0.14,2.33  (Jul 2018),0  (Jun 2018),2.97 L,0.00 ,Small Cap,95.62
-6,Aavas Financiers Ltd. ,Housing finance,2.75,48.6,2.75,-0.09,2.21  (Oct 2018),0  (Jun 2018),34.22 k,-6.18 k,Mid Cap,2.75
-7,Thyrocare Technologies Ltd. ,Healthcare service providers ,2.69,47.5,2.69,-0.20,2.69  (May 2019),2.69  (May 2019),1.00 L,0.00 ,Small Cap,95.62
-8,M M Forgings Ltd. ,Castings/forgings,2.68,47.3,2.68,-0.25,2.68  (May 2019),2.68  (May 2019),90.89 k,0.00 ,Small Cap,95.62
-9,Timken India Ltd. ,Bearings,4.71,42.4,2.40,0.38,1.73  (Jun 2018),1.73  (Jun 2018),62.38 k,0.00 ,Small Cap,95.62
-10,Ujjivan Small Finance Bank Ltd. ,Banks,3.25,42.2,2.39,0.17,1.57  (Nov 2018),1.57  (Nov 2018),1.17 L,0.00 ,Small Cap,95.62
-11,CreditAccess Grameen Ltd. ,Nbfc,6.91,42.2,2.39,-0.08,1.47  (Sep 2018),0  (Jun 2018),80.70 k,0.00 ,Small Cap,95.62
-12,Navin Flourine International Ltd. ,Chemicals - inorganic,2.35,41.6,2.35,0.14,1.7  (Jun 2018),1.7  (Jun 2018),56.33 k,0.00 ,Small Cap,95.62
-13,Kalpataru Power Transmission Ltd. ,Transmission towers,2.33,41.2,2.33,0.10,1.57  (Aug 2018),1.57  (Aug 2018),81.53 k,0.00 ,Small Cap,95.62
-14,Nrb Bearings Ltd. ,Bearings,4.71,40.8,2.31,-0.33,1.65  (Jun 2018),1.65  (Jun 2018),2.41 L,0.00 ,Small Cap,95.62
-15,Ador Welding Ltd. ,Electrodes,3.58,40.8,2.31,0.17,1.47  (Jun 2018),1.47  (Jun 2018),1.12 L,0.00 ,Small Cap,95.62
-16,Indostar Capital Finance Private Ltd. ,Nbfc,6.91,37.8,2.14,-0.10,1.87  (Oct 2018),1.87  (Oct 2018),95.98 k,0.00 ,Small Cap,95.62
-17,Ksb Pumps Ltd. ,Compressors / pumps,2.89,37.6,2.13,-0.04,1.94  (Jul 2018),1.94  (Jul 2018),55.22 k,0.00 ,Small Cap,95.62
-18,Equitas Holdings Ltd. ,Investment companies,4.13,37.4,2.12,0.06,1.79  (Nov 2018),1.79  (Nov 2018),2.69 L,0.00 ,Small Cap,95.62
-19,Taj GVK Hotels & Resorts Ltd. ,Hotels/resorts,2.98,35.4,2.01,-0.24,1.8  (Dec 2018),1.8  (Dec 2018),1.72 L,0.00 ,Small Cap,95.62
-20,Rane Holdings Ltd. ,Investment companies,4.13,35.4,2.01,-0.06,1.87  (Jan 2019),1.87  (Jan 2019),29.04 k,0.00 ,Small Cap,95.62
-21,Heidelberg Cement India Ltd. ,Cement,7.07,34.5,1.96,0.17,1.09  (Jun 2018),1.09  (Jun 2018),1.67 L,0.00 ,Small Cap,95.62
-22,- Vesuvius India Ltd. ,Refractories,1.91,33.7,1.91,0.00,0.85  (Jun 2018),0.85  (Jun 2018),28.91 k,0.00 ,Small Cap,95.62
-23,Thomas Cook (india) Ltd. ,Diversified services,1.84,32.6,1.84,-0.16,1.84  (May 2019),1.84  (May 2019),1.39 L,0.00 ,Small Cap,95.62
-24,Brigade Enterprises Ltd. ,Residential/commercial/sez project,1.83,32.4,1.83,0.16,1.33  (Oct 2018),1.33  (Oct 2018),1.29 L,0.00 ,Small Cap,95.62
-25,Sundaram-Clayton Ltd. ,Auto ancillaries,6.62,32.1,1.82,-0.22,1.82  (May 2019),1.82  (May 2019),12.36 k,0.00 ,Small Cap,95.62
-26,KEI Industries Ltd. ,Cables - electricals,1.8,31.9,1.80,0.35,1.02  (Oct 2018),1.02  (Oct 2018),60.63 k,0.00 ,Small Cap,95.62
-27,India Cements Ltd. ,Cement,7.07,31,1.76,-0.09,1.57  (Jan 2019),1.57  (Jan 2019),2.94 L,0.00 ,Small Cap,95.62
-28,Magma Fincorp Ltd. ,Nbfc,6.91,30,1.70,0.03,1.42  (Jan 2019),1.42  (Jan 2019),2.29 L,0.00 ,Small Cap,95.62
-29,Kennametal India Ltd. ,Industrial equipment,1.64,28.9,1.64,-0.17,1.56  (Mar 2019),0  (Jun 2018),25.57 k,0.00 ,Small Cap,95.62
-30,INOX Leisure Ltd. ,"Flim production, distribution & exhibition",1.63,28.8,1.63,0.22,0.8  (Jul 2018),0.8  (Jul 2018),76.51 k,0.00 ,Small Cap,95.62
-31,Carborundum Universal Ltd. ,Abrasives,4.69,24.5,1.39,0.01,1.13  (Jun 2018),1.13  (Jun 2018),65.16 k,0.00 ,Small Cap,95.62
-32,Transport Corporation Of India Ltd. ,Logistics solution provider,2.19,23.4,1.33,0.08,0.32  (Jun 2018),0.32  (Jun 2018),73.16 k,0.00 ,Small Cap,95.62
-33,Esab India Ltd. ,Electrodes,3.58,22.5,1.27,0.28,0.65  (Jun 2018),0.65  (Jun 2018),19.07 k,0.00 ,Small Cap,95.62
-34,NCC Ltd. ,"Engineering, designing, construction",4.05,21.9,1.24,-0.73,1.24  (May 2019),1.24  (May 2019),2.24 L,-1.15 L,Small Cap,95.62
-35,Salzer Electronics Ltd. ,Consumer elctronics,1.23,21.7,1.23,0.09,0.86  (Jul 2018),0.86  (Jul 2018),1.61 L,0.00 ,Small Cap,95.62
-36,Khadim India Ltd. ,Leather and leather products,1.04,18.4,1.04,-0.22,1.04  (May 2019),1.04  (May 2019),53.95 k,0.00 ,Small Cap,95.62
-37,Heritage Foods (india) Ltd. ,Consumer food,1.04,18.4,1.04,-0.32,0.85  (Jun 2018),0.85  (Jun 2018),44.63 k,0.00 ,Small Cap,95.62
-38,Shanthi Gears Ltd. ,Auto ancillaries,6.62,18.4,1.04,-0.14,1.04  (May 2019),1.04  (May 2019),1.58 L,0.00 ,Small Cap,95.62
-39,L G Balakrishnan & Bros Ltd. ,Auto ancillaries,6.62,18.4,1.04,-0.02,1.04  (May 2019),1.04  (May 2019),49.28 k,0.00 ,Small Cap,95.62
-40,Century Plyboards India Ltd. ,Plywood boards,1.01,17.9,1.01,-0.05,1.01  (May 2019),1.01  (May 2019),1.05 L,0.00 ,Small Cap,95.62
-41,Himatsingka Seide Ltd. ,Fabrics and garments,5.81,17.7,1.00,-0.12,0.74  (Feb 2019),0.74  (Feb 2019),89.69 k,0.00 ,Small Cap,95.62
-42,Johnson Controls-Hitachi Air Conditioning India Ltd. ,Air conditioner,3.88,17.7,1.00,0.88,0.12  (Apr 2019),0  (Jun 2018),9.58 k,8.44 k,Small Cap,95.62
-43,HSIL Ltd. ,Glass – consumer,1,17.6,1.00,0.01,0.79  (Nov 2018),0.79  (Nov 2018),62.00 k,0.00 ,Small Cap,95.62
-44,Persistent Systems Ltd. ,Computers - software,0.98,17.3,0.98,-0.13,0.95  (Oct 2018),0  (Jun 2018),29.67 k,0.00 ,Small Cap,95.62
-45,Oriental Hotels Ltd. ,Hotels/resorts,2.98,17.2,0.97,-0.06,0.88  (Jun 2018),0.88  (Jun 2018),4.02 L,0.00 ,Small Cap,95.62
-46,India Nippon Electricals Ltd. ,Auto ancillaries,6.62,16.5,0.94,-0.02,0.23  (Jul 2018),0  (Jun 2018),38.06 k,0.00 ,Small Cap,95.62
-47,GNA Axles Ltd. ,Auto ancillaries,6.62,16.5,0.93,-0.04,0.93  (May 2019),0  (Jun 2018),54.82 k,0.00 ,Small Cap,95.62
-48,Raymond Ltd. ,Fabrics and garments,5.81,16,0.90,0.03,0.79  (Sep 2018),0.79  (Sep 2018),19.26 k,0.00 ,Small Cap,95.62
-49,Redington (India) Ltd. ,Logistics solution provider,2.19,15.2,0.86,-0.04,0.71  (Jan 2019),0.71  (Jan 2019),1.52 L,0.00 ,Small Cap,95.62
-50,DCB Bank Ltd. ,Banks,3.25,15.2,0.86,0.05,0.6  (Sep 2018),0  (Jun 2018),65.00 k,0.00 ,Small Cap,95.62
-51,Subros Ltd. ,Auto ancillaries,6.62,15,0.85,-0.06,0.75  (Jan 2019),0  (Jun 2018),55.49 k,0.00 ,Small Cap,95.62
-52,Rajapalayam Mills Ltd. ,Spinning-cotton/blended,0.84,14.9,0.84,-0.03,0.77  (Dec 2018),0.77  (Dec 2018),17.22 k,0.00 ,Small Cap,95.62
-53,Balaji Telefilms ,Tv broadcasting & software production,0.77,13.5,0.77,-0.07,0.77  (May 2019),0.77  (May 2019),1.89 L,0.00 ,Small Cap,95.62
-54,WPIL Ltd. ,Compressors / pumps,2.89,13.5,0.76,0.09,0.53  (Jul 2018),0.53  (Jul 2018),14.00 k,0.00 ,Small Cap,95.62
-55,Muthoot Capital Services Ltd. ,Nbfc,6.91,12,0.68,-0.03,0.68  (May 2019),0  (Jun 2018),16.00 k,0.00 ,Small Cap,95.62
-56,Dollar Industries Ltd. ,Fabrics and garments,5.81,11.9,0.67,-0.08,0.67  (May 2019),0.67  (May 2019),47.70 k,0.00 ,Small Cap,95.62
-57,Force Motors Ltd. ,Commercial vehicles,0.6,10.6,0.60,-0.07,0.59  (Jun 2018),0.59  (Jun 2018),6.79 k,0.00 ,Small Cap,95.62
-58,INEOS Styrolution India Ltd. ,Plastic products,0.48,8.4,0.48,-0.07,0.48  (May 2019),0.48  (May 2019),17.11 k,0.00 ,Small Cap,95.62
-59,S Chand And Company Ltd. ,Printing and publishing,0.37,6.5,0.37,-0.14,0.37  (May 2019),0.37  (May 2019),58.33 k,0.00 ,Small Cap,95.62
+0,TCNS Clothing Company Ltd. ,Fabrics and garments,5.96,58.6,3.46,0.21,2.55  (Jul 2018),2.55  (Jul 2018),70.31 k,0.00 ,Small Cap,95.39
+1,Grindwell Norton Ltd. ,Abrasives,4.81,58.2,3.44,0.14,2.68  (Jul 2018),2.68  (Jul 2018),97.89 k,0.00 ,Small Cap,95.39
+2,- J.K. Cement Ltd. ,Cement,7,56.8,3.35,0.01,2.17  (Jul 2018),2.17  (Jul 2018),56.69 k,0.00 ,Small Cap,95.39
+3,- Blue Star Ltd. ,Air conditioner,3.88,48.9,2.88,0.01,2.22  (Sep 2018),2.22  (Sep 2018),63.00 k,0.00 ,Small Cap,95.39
+4,Ashoka Buildcon Ltd. ,"Engineering, designing, construction",4.17,48.9,2.88,0.07,2.25  (Sep 2018),2.25  (Sep 2018),3.47 L,0.00 ,Small Cap,95.39
+5,Orient Electric Ltd. ,Home appliances,2.79,47.3,2.79,-0.01,2.33  (Jul 2018),2.33  (Jul 2018),2.97 L,0.00 ,Small Cap,95.39
+6,Thyrocare Technologies Ltd. ,Healthcare service providers ,2.79,47.3,2.79,0.10,2.69  (May 2019),2.69  (May 2019),1.00 L,0.00 ,Small Cap,95.39
+7,Timken India Ltd. ,Bearings,5.04,45.8,2.70,0.31,2.01  (Apr 2019),2.01  (Apr 2019),62.38 k,0.00 ,Small Cap,95.39
+8,Aavas Financiers Ltd. ,Housing finance,2.65,45,2.65,-0.10,2.21  (Oct 2018),0  (Jul 2018),30.00 k,-4.22 k,Mid Cap,2.65
+9,M M Forgings Ltd. ,Castings/forgings,2.64,44.7,2.64,-0.04,2.64  (Jun 2019),2.64  (Jun 2019),90.89 k,0.00 ,Small Cap,95.39
+10,Kalpataru Power Transmission Ltd. ,Transmission towers,2.53,42.8,2.53,0.20,1.57  (Aug 2018),1.57  (Aug 2018),81.53 k,0.00 ,Small Cap,95.39
+11,CreditAccess Grameen Ltd. ,Nbfc,6.96,41.9,2.47,0.08,1.47  (Sep 2018),0  (Jul 2018),80.70 k,0.00 ,Small Cap,95.39
+12,- Navin Flourine International Ltd. ,Chemicals - inorganic,2.35,39.8,2.35,0.00,1.79  (Jul 2018),1.79  (Jul 2018),56.33 k,0.00 ,Small Cap,95.39
+13,Nrb Bearings Ltd. ,Bearings,5.04,39.6,2.34,0.03,2.25  (Jul 2018),2.25  (Jul 2018),2.41 L,0.00 ,Small Cap,95.39
+14,Ksb Pumps Ltd. ,Compressors / pumps,3.02,39.6,2.34,0.21,1.94  (Jul 2018),1.94  (Jul 2018),55.22 k,0.00 ,Small Cap,95.39
+15,Ador Welding Ltd. ,Electrodes,3.58,38.9,2.29,-0.01,1.88  (Jul 2018),1.88  (Jul 2018),1.12 L,0.00 ,Small Cap,95.39
+16,Indostar Capital Finance Private Ltd. ,Nbfc,6.96,35,2.07,-0.07,1.87  (Oct 2018),1.87  (Oct 2018),95.98 k,0.00 ,Small Cap,95.39
+17,Ujjivan Small Finance Bank Ltd. ,Banks,2.95,34.6,2.04,-0.35,1.57  (Nov 2018),1.57  (Nov 2018),1.17 L,0.00 ,Small Cap,95.39
+18,Brigade Enterprises Ltd. ,Residential/commercial/sez project,1.97,33.3,1.97,0.13,1.33  (Oct 2018),1.33  (Oct 2018),1.29 L,0.00 ,Small Cap,95.39
+19,Heidelberg Cement India Ltd. ,Cement,7,32.6,1.92,-0.03,1.25  (Jul 2018),1.25  (Jul 2018),1.67 L,0.00 ,Small Cap,95.39
+20,Equitas Holdings Ltd. ,Investment companies,3.72,32.3,1.91,-0.21,1.79  (Nov 2018),1.79  (Nov 2018),2.69 L,0.00 ,Small Cap,95.39
+21,Taj GVK Hotels & Resorts Ltd. ,Hotels/resorts,2.81,32.2,1.90,-0.10,1.8  (Dec 2018),1.8  (Dec 2018),1.72 L,0.00 ,Small Cap,95.39
+22,Vesuvius India Ltd. ,Refractories,1.9,32.2,1.90,0.00,1.84  (Aug 2018),1.84  (Aug 2018),28.91 k,0.00 ,Small Cap,95.39
+23,Thomas Cook (india) Ltd. ,Diversified services,1.89,32,1.89,0.04,1.84  (May 2019),1.84  (May 2019),1.39 L,0.00 ,Small Cap,95.39
+24,Rane Holdings Ltd. ,Investment companies,3.72,30.6,1.81,-0.20,1.81  (Jun 2019),1.81  (Jun 2019),29.04 k,0.00 ,Small Cap,95.39
+25,Magma Fincorp Ltd. ,Nbfc,6.96,29.7,1.75,0.06,1.42  (Jan 2019),1.42  (Jan 2019),2.29 L,0.00 ,Small Cap,95.39
+26,India Cements Ltd. ,Cement,7,29.3,1.73,-0.03,1.57  (Jan 2019),1.57  (Jan 2019),2.94 L,0.00 ,Small Cap,95.39
+27,KEI Industries Ltd. ,Cables - electricals,1.72,29.1,1.72,-0.09,1.02  (Oct 2018),1.02  (Oct 2018),60.63 k,0.00 ,Small Cap,95.39
+28,Kennametal India Ltd. ,Industrial equipment,1.98,28.7,1.69,0.06,1.56  (Mar 2019),0  (Jul 2018),25.57 k,0.00 ,Small Cap,95.39
+29,Sundaram-Clayton Ltd. ,Auto ancillaries,6.34,28.5,1.68,-0.13,1.68  (Jun 2019),1.68  (Jun 2019),12.36 k,0.00 ,Small Cap,95.39
+30,INOX Leisure Ltd. ,"Flim production, distribution & exhibition",1.48,25,1.48,-0.15,0.8  (Jul 2018),0.8  (Jul 2018),76.51 k,0.00 ,Small Cap,95.39
+31,Carborundum Universal Ltd. ,Abrasives,4.81,23.3,1.37,-0.02,1.31  (Aug 2018),1.31  (Aug 2018),65.16 k,0.00 ,Small Cap,95.39
+32,Transport Corporation Of India Ltd. ,Logistics solution provider,2.32,22.8,1.34,0.02,1.12  (Jul 2018),1.12  (Jul 2018),73.16 k,0.00 ,Small Cap,95.39
+33,Esab India Ltd. ,Electrodes,3.58,21.9,1.29,0.02,0.68  (Jul 2018),0.68  (Jul 2018),19.07 k,0.00 ,Small Cap,95.39
+34,NCC Ltd. ,"Engineering, designing, construction",4.17,21.8,1.29,0.05,1.24  (May 2019),1.24  (May 2019),2.24 L,0.00 ,Small Cap,95.39
+35,Salzer Electronics Ltd. ,Consumer elctronics,1.18,20,1.18,-0.05,0.86  (Jul 2018),0.86  (Jul 2018),1.61 L,0.00 ,Small Cap,95.39
+36,Persistent Systems Ltd. ,Computers - software,1.08,18.3,1.08,0.10,0.95  (Oct 2018),0  (Jul 2018),29.67 k,0.00 ,Small Cap,95.39
+37,Shanthi Gears Ltd. ,Auto ancillaries,6.34,18.3,1.08,0.04,1.04  (May 2019),1.04  (May 2019),1.58 L,0.00 ,Small Cap,95.39
+38,Heritage Foods (india) Ltd. ,Consumer food,1.07,18.1,1.07,0.03,1.01  (Jul 2018),1.01  (Jul 2018),44.63 k,0.00 ,Small Cap,95.39
+39,Century Plyboards India Ltd. ,Plywood boards,1.03,17.5,1.03,0.02,1.01  (May 2019),1.01  (May 2019),1.05 L,0.00 ,Small Cap,95.39
+40,- Johnson Controls-Hitachi Air Conditioning India Ltd. ,Air conditioner,3.88,17,1.00,0.00,0.12  (Apr 2019),0  (Jul 2018),9.58 k,0.00 ,Small Cap,95.39
+41,L G Balakrishnan & Bros Ltd. ,Auto ancillaries,6.34,16.8,0.99,-0.05,0.99  (Jun 2019),0.99  (Jun 2019),49.28 k,0.00 ,Small Cap,95.39
+42,Redington (India) Ltd. ,Logistics solution provider,2.32,16.5,0.98,0.12,0.71  (Jan 2019),0.71  (Jan 2019),1.52 L,0.00 ,Small Cap,95.39
+43,Khadim India Ltd. ,Leather and leather products,0.97,16.5,0.97,-0.07,0.97  (Jun 2019),0.97  (Jun 2019),53.95 k,0.00 ,Small Cap,95.39
+44,Himatsingka Seide Ltd. ,Fabrics and garments,5.96,16,0.95,-0.06,0.74  (Feb 2019),0.74  (Feb 2019),99.01 k,9.32 k,Small Cap,95.39
+45,HSIL Ltd. ,Glass – consumer,0.94,15.9,0.94,-0.06,0.79  (Nov 2018),0.79  (Nov 2018),62.00 k,0.00 ,Small Cap,95.39
+46,- India Nippon Electricals Ltd. ,Auto ancillaries,6.34,15.9,0.94,0.00,0.23  (Jul 2018),0.23  (Jul 2018),38.06 k,0.00 ,Small Cap,95.39
+47,DCB Bank Ltd. ,Banks,2.95,15.4,0.91,0.05,0.6  (Sep 2018),0  (Jul 2018),65.00 k,0.00 ,Small Cap,95.39
+48,Oriental Hotels Ltd. ,Hotels/resorts,2.81,15.4,0.91,-0.07,0.91  (Jun 2019),0.91  (Jun 2019),4.02 L,0.00 ,Small Cap,95.39
+49,GNA Axles Ltd. ,Auto ancillaries,6.34,14.9,0.88,-0.05,0.88  (Jun 2019),0  (Jul 2018),54.82 k,0.00 ,Small Cap,95.39
+50,Raymond Ltd. ,Fabrics and garments,5.96,14.1,0.83,-0.07,0.79  (Sep 2018),0.79  (Sep 2018),19.26 k,0.00 ,Small Cap,95.39
+51,Rajapalayam Mills Ltd. ,Spinning-cotton/blended,0.82,13.9,0.82,-0.02,0.77  (Dec 2018),0.77  (Dec 2018),17.22 k,0.00 ,Small Cap,95.39
+52,Subros Ltd. ,Auto ancillaries,6.34,13.1,0.77,-0.08,0.75  (Jan 2019),0  (Jul 2018),55.49 k,0.00 ,Small Cap,95.39
+53,Dollar Industries Ltd. ,Fabrics and garments,5.96,12.2,0.72,0.05,0.67  (May 2019),0.67  (May 2019),47.70 k,0.00 ,Small Cap,95.39
+54,WPIL Ltd. ,Compressors / pumps,3.02,11.4,0.68,-0.09,0.53  (Jul 2018),0.53  (Jul 2018),14.00 k,0.00 ,Small Cap,95.39
+55,Muthoot Capital Services Ltd. ,Nbfc,6.96,11.4,0.67,-0.01,0.67  (Jun 2019),0.67  (Jun 2019),16.00 k,0.00 ,Small Cap,95.39
+56,Balaji Telefilms ,Tv broadcasting & software production,0.65,11.1,0.65,-0.11,0.65  (Jun 2019),0.65  (Jun 2019),1.89 L,0.00 ,Small Cap,95.39
+57,Force Motors Ltd. ,Commercial vehicles,0.57,9.6,0.57,-0.03,0.57  (Jun 2019),0.57  (Jun 2019),6.79 k,0.00 ,Small Cap,95.39
+58,INEOS Styrolution India Ltd. ,Plastic products,0.47,7.9,0.47,-0.01,0.47  (Jun 2019),0.47  (Jun 2019),17.11 k,0.00 ,Small Cap,95.39
+59,S Chand And Company Ltd. ,Printing and publishing,0.3,5.1,0.30,-0.07,0.3  (Jun 2019),0.3  (Jun 2019),58.33 k,0.00 ,Small Cap,95.39
+60,# Arvind Fashions Ltd. ,Industrial equipment,1.98,4.9,0.29,0.29,0.29  (Jun 2019),0  (Jul 2018),7.22 k,7.22 k,Other,0.29

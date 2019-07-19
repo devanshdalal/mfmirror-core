@@ -7,7 +7,19 @@ from django.views.generic import TemplateView
 from django.conf import settings
 
 from util.analyzer import WeightedAverage
-# analyzer = apps.get_model('util', 'Analyzer')
+from util.utils import BASE_DIR_CSVS
+
+from apscheduler.schedulers.background import BackgroundScheduler
+
+from subprocess import call
+
+# Installing scheduler
+
+def scrpper_job():
+    print('In job')
+    call(['python', 'util/scrapper.py', '--source', 'MC'])
+
+scheduler = None
 
 # Create your views here.
 
@@ -19,7 +31,12 @@ class HomePageView(TemplateView):
 
 class GetFundsView(TemplateView):
     def get(self, request, **kwargs):
-        funds = list(map(lambda x: os.path.splitext(x)[0], os.listdir(settings.BASE_DIR + '/util/mf-data')))
+        global scheduler
+        if scheduler == None:
+            scheduler = BackgroundScheduler()
+            scheduler.add_job(scrpper_job, 'interval', seconds=600)
+            scheduler.start()
+        funds = list(map(lambda x: os.path.splitext(x)[0], filter(lambda y: not y.startswith('.'), os.listdir(BASE_DIR_CSVS))))
         return JsonResponse(funds, safe=False)
 
 class GetPortfolioView(TemplateView):
