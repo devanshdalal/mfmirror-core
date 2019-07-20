@@ -18,7 +18,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 def scrpper_job():
     print('In job')
-    call(['python', 'util/scrapper.py', '--source', 'MC'])
+    os.system('python util/scrapper.py --source MC')
 
 scheduler = None
 
@@ -35,7 +35,7 @@ class GetFundsView(TemplateView):
         global scheduler
         if scheduler == None:
             scheduler = BackgroundScheduler()
-            scheduler.add_job(scrpper_job, 'interval', seconds=60)
+            scheduler.add_job(scrpper_job, 'interval', seconds=300)
             scheduler.start()
         funds = list(map(lambda x: os.path.splitext(x)[0], filter(lambda y: not y.startswith('.'), os.listdir(BASE_DIR_CSVS))))
         return JsonResponse(funds, safe=False)

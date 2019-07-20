@@ -40,4 +40,8 @@ weights = [0.04, 0.1, 0.2, 0.1, 0.3, 0.1, 0.06, 0.1]
 #######################################################################################
 
 MCFunds = [
-	'https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/small-cap-fund.html']
+	'https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/small-cap-fund.html',
+	'https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/sectoralthematic.html',
+	'https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/value-fund.html',
+	'https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/multi-cap-fund.html',
+]
