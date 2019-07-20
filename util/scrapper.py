@@ -55,7 +55,6 @@ def ParseMoneyControl(url):
     page = requests.get(url)
     tree = html.fromstring(page.content)
     rows = tree.xpath('//table[@id="equityCompleteHoldingTable"]//tr[not(@style)]')
-    print(ET.tostring(rows[0]))
     header = list(filter(lambda y: not y.isspace(), rows[0].xpath('./th//text()')))
     rows = list(map(lambda x: x.xpath('./td'), rows[1:]))
     for i,x in enumerate(rows):
