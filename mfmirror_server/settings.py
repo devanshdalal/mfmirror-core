@@ -107,11 +107,6 @@ AUTH_PASSWORD_VALIDATORS = [
 
 CORS_ORIGIN_ALLOW_ALL = True
 
-CORS_ORIGIN_WHITELIST = (
-    "mfmirror.herokuapp.com",
-    "http://127.0.0.1:9000"
-)
-
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 

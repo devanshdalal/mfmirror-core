@@ -30,7 +30,7 @@ def RemoveSpaces(l):
         return list(filter(lambda y: not y.isspace(), l))
 
 def GetFileByName(name):
-    mf_data = os.path.join(BASE_DIR_CSVS, dir)
+    mf_data = os.path.join(BASE_DIR_CSVS)
     os.system('mkdir -p '+ mf_data);
     if not name.endswith('.csv'):
         name = name + '.csv'
